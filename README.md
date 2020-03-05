@@ -1,5 +1,5 @@
 # Wav Splitter
-This is a program to split one big wav file into multiple smaller wav files. It was originally made in mind for the converted audio files to be used for entries in N64 sound banks for N64 homebrew development. More specifically music - by stringing each wav together to give the illusion of music.
+This is a program to split one big wav file into multiple smaller wav files. The converted files can also be set to mono or stereo. It was originally made in mind for the converted audio files to be used for entries in N64 sound banks for N64 homebrew development. More specifically music - by stringing each wav together to give the illusion of music.
 
 There is another program I have been writing called the "N64 Modern Sound Bank Compiler". But, due to a lack of existing documentation and source files, I have been unable to continue. Everything else has been found simply by hex editing the files. Unless such future discoveries are made, that program may not be touched again.
 
